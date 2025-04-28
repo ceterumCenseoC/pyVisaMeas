@@ -1,2 +1,1 @@
-# pyVisaMeas
 print("Messtechnik Main")
