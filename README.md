@@ -1,2 +1,2 @@
 # pyVisaMeas
-Messtechnik für !Messtechnik-mains
+print("Messtechnik Main")
